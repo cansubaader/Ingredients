@@ -3,7 +3,7 @@ Type: Package
 Title: Learn more about recipes and their ingredients  
 Version: 0.1.0
 Author: 
-c(person("Pia", "Baader", email = "baader.pia.c@gmail.com", role = c("aut", "cre"))
+person("Pia", "Baader", email = "baader.pia.c@gmail.com", role = c("aut", "cre")
 Maintainer: The package maintainer <baader.pia.c@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
