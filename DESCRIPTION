@@ -1,14 +1,13 @@
-Package: Ingedients
+Package: Ingredients
 Type: Package
 Title: Learn more about recipes and their ingredients  
 Version: 0.1.0
 Author: 
-person("Pia", "Baader", email = "baader.pia.c@gmail.com", role = c("aut", "cre")
+person("Pia", "Baader", email = "baader.pia.c@gmail.com", role = c("aut", "cre"))
 Maintainer: The package maintainer <baader.pia.c@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description:  
     it filters vegan recipes out of all available recipes and 
-second the user can type in recipe names to see which ingredients are needed for it 
+    the user can type in recipe names to see which ingredients are needed for it 
 License: MIT 
 Encoding: UTF-8
 LazyData: true
