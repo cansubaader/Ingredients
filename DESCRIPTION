@@ -3,7 +3,7 @@ Type: Package
 Title: Learn more about recipes and their ingredients  
 Version: 0.1.0
 Author: 
-person("Pia Baader <baader.pia.c@gmail.com> [aut,cre])
+person("Pia Baader <baader.pia.c@gmail.com> [aut,cre]") 
 Maintainer: The package maintainer <baader.pia.c@gmail.com>
 Description:  
     it filters vegan recipes out of all available recipes and 
