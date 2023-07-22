@@ -8,6 +8,6 @@ Maintainer: The package maintainer <baader.pia.c@gmail.com>
 Description:  
     it filters vegan recipes out of all available recipes and 
     the user can type in recipe names to see which ingredients are needed for it 
-License: MIT 
+License: `use_mit_license()` 
 Encoding: UTF-8
 LazyData: true
